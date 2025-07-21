@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Aman Singh 👋
 
-<!--
-**Aman3020/Aman3020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer | Problem Solver | AI Enthusiast
 
-Here are some ideas to get you started:
+- 🔥 700+ DSA problems solved (LeetCode 500+, GFG 100+, CodeChef 100+)
+- 🛠️ Working with MERN stack, Python, C++, AI integrations
+- 💼 Building projects like:
+   - SkillBridge – MERN Job Portal
+   - AI Voice Interviewer – GPT-4 powered platform
+   - Courier Management System in C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+React | Node.js | MongoDB | Express | Python | C++ | Git | APIs | Tailwind CSS
+
+## 📈 My GitHub Stats
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman3020&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman3020&layout=compact&theme=radical)
+
+## 📫 Connect With Me
+[LinkedIn](https://www.linkedin.com/in/your-linkedin/) | [Portfolio Website](#)
