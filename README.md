@@ -12,10 +12,10 @@
 ## 🛠️ Tech Stack
 React | Node.js | MongoDB | Express | Python | C++ | Git | APIs | Tailwind CSS
 
-## 📈 My GitHub Stats
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman3020&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman3020&layout=compact&theme=radical)
+## 🏆 Additional GitHub Stats
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Aman3020&theme=radical)
+
 
 ## 📫 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/your-linkedin/) | [Portfolio Website](#)
+[LinkedIn](https://www.linkedin.com/in/your-linkedin/) | [Portfolio Website](https://aman-responsive-portfolio.netlify.app/)
