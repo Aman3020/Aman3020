@@ -2,7 +2,7 @@
 
 🚀 Full-Stack Developer | Problem Solver | AI Enthusiast
 
-- 🔥 700+ DSA problems solved (LeetCode 500+, GFG 100+, CodeChef 100+)
+- 🔥 1100+ DSA problems solved (LeetCode 700+, GFG 300+, CodeChef 100+)
 - 🛠️ Working with MERN stack, Python, C++, AI integrations
 - 💼 Building projects like:
    - SkillBridge – MERN Job Portal
